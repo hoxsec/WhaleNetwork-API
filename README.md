@@ -29,7 +29,7 @@ api/v1/posts
 [
     {
         "id": "1",
-        "by_user": "99", // id post userid.
+        "by_user": "99",
         "date": "2017-04-24 12:13:30"
     }
 ]
@@ -42,7 +42,7 @@ api/v1/sponsor
         "user_id": "99",
         "title_text": "##",
         "info_text": "##",
-        "button": "1", // either 1 or 0.
+        "button": "1",
         "button_link": "##", 
         "button_text": "##",
         "image": "##"
