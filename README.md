@@ -1,15 +1,15 @@
 # WhaleNetwork API to JSON
 
-WhaleNetwork API List: 
-api/v1/users
-api/v1/friends
-api/v1/posts
-api/v1/sponsor
-api/v1/users
-api/v1/stats
+## WhaleNetwork API List: 
+#### api/v1/users
+#### api/v1/friends
+#### api/v1/posts
+#### api/v1/sponsor
+#### api/v1/users
+#### api/v1/stats 
 
 
-api/v1/users
+## api/v1/users
 ```json
 [
     {
@@ -24,7 +24,7 @@ api/v1/users
     }
 ]
 ```
-api/v1/posts
+## api/v1/posts
 ```json
 [
     {
@@ -34,7 +34,8 @@ api/v1/posts
     }
 ]
 ```
-api/v1/sponsor
+
+## api/v1/sponsor
 ```json
 [
     {
@@ -50,4 +51,5 @@ api/v1/sponsor
 ]
 ```
 
-Please refer to [Whale-Network API](https://www.whale-network.nl/) for the full API documentation.
+
+## Please refer to [Whale-Network API](https://www.whale-network.nl/) for the full API documentation.
