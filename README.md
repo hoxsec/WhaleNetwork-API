@@ -1,13 +1,19 @@
-# JSON API with PHP/MySQL
-PHP/MySQL API JSON Encode
+# WhaleNetwork API to JSON
 
 WhaleNetwork API List: 
+api/v1/users
+api/v1/friends
+api/v1/posts
+api/v1/sponsor
+api/v1/users
+api/v1/stats
+
 
 api/v1/users
 ```json
 [
     {
-        "id": "99", <-- id from DB
+        "id": "99", 
         "name": "HOXSEC",
         "username": "HOXSEC",
         "email": "example@mail.com",
@@ -23,7 +29,7 @@ api/v1/posts
 [
     {
         "id": "1",
-        "by_user": "99", <-- user id from posts
+        "by_user": "99", // id post userid.
         "date": "2017-04-24 12:13:30"
     }
 ]
@@ -36,7 +42,7 @@ api/v1/sponsor
         "user_id": "99",
         "title_text": "##",
         "info_text": "##",
-        "button": "1", <-- either 1 or 0.
+        "button": "1", // either 1 or 0.
         "button_link": "##", 
         "button_text": "##",
         "image": "##"
