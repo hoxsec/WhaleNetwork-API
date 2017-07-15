@@ -1,12 +1,12 @@
 # WhaleNetwork API to JSON
 
 ## WhaleNetwork API List: 
-#### api/v1/users
-#### api/v1/friends
-#### api/v1/posts
-#### api/v1/sponsor
-#### api/v1/users
-#### api/v1/stats 
+#### https://www.whale-network.nl/api/v1/users
+#### https://www.whale-network.nl/api/v1/friends
+#### https://www.whale-network.nl/api/v1/posts
+#### https://www.whale-network.nl/api/v1/sponsor
+#### https://www.whale-network.nl/api/v1/users
+#### https://www.whale-network.nl/api/v1/stats 
 
 
 ## api/v1/users
